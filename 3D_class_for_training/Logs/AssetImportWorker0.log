@@ -219,3 +219,571 @@ Received Import Request.
 Start importing Assets/TerrainData_986dd1fb-b3ef-4240-9a66-142f450179dd.asset using Guid(df31137893316144cbcdd4f2b565ba52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e64e5c4e49b2a2ccc11301ab1f67bd35') in 0.009921 seconds 
   Import took 0.012661 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 6145.004884 seconds.
+  path: Assets/New Terrain Material.mat
+  artifactKey: Guid(71bb0c9ee8afc3e4c8731a070d7619f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain Material.mat using Guid(71bb0c9ee8afc3e4c8731a070d7619f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfc8d9d659f783b9189b98bb8ad7663f') in 0.100274 seconds 
+  Import took 0.103353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 133.019554 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(d6e5d2ac9cc4bf348bd1e6cf29840ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(d6e5d2ac9cc4bf348bd1e6cf29840ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5905f1a99699c1dc1aba5a18d29018d4') in 0.030823 seconds 
+  Import took 0.034032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/NewLayer.terrainlayer
+  artifactKey: Guid(6cc652c239191c545adcfbe01f6a45ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewLayer.terrainlayer using Guid(6cc652c239191c545adcfbe01f6a45ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bcff9168088d8af2d1495d3298c4b8f') in 0.017180 seconds 
+  Import took 0.019529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 123.033673 seconds.
+  path: Assets/Blink/Art/Textures/StylizedForestTextures/Cliff_3/Cliff_3_AmbientOcclusion.png
+  artifactKey: Guid(120a30f02d4a4654e8aa69ccabedeb3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedForestTextures/Cliff_3/Cliff_3_AmbientOcclusion.png using Guid(120a30f02d4a4654e8aa69ccabedeb3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8838f54f109e8dc5b5e8024b297344f5') in 0.057682 seconds 
+  Import took 0.060782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Blink/Art/Textures/StylizedForestTextures/Cliff_3/Cliff_3_BaseColor.png
+  artifactKey: Guid(91e362541b37fe947a8296386e22344f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedForestTextures/Cliff_3/Cliff_3_BaseColor.png using Guid(91e362541b37fe947a8296386e22344f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dffd452cad23afb289077daa0af10db4') in 0.013843 seconds 
+  Import took 0.016722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Blink/Art/Textures/StylizedForestTextures/Cliff_3/Cliff_3_Height.png
+  artifactKey: Guid(e503f96269599594cb66b5e353290180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedForestTextures/Cliff_3/Cliff_3_Height.png using Guid(e503f96269599594cb66b5e353290180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c25da6370022b4d65ee676b8176e3f44') in 0.013524 seconds 
+  Import took 0.016282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/Dry_Lava_Height.png
+  artifactKey: Guid(380f7833db0c20741a96b9b56cf2d1e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/Dry_Lava_Height.png using Guid(380f7833db0c20741a96b9b56cf2d1e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c48667bee34fb15dd111bb1d615667d') in 0.026011 seconds 
+  Import took 0.029229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Blink/Art/Textures/StylizedForestTextures/Grass_Mud/Grass_Mud_Basecolor.png
+  artifactKey: Guid(a0c9a9da0e140d04ca2943dc740bae2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedForestTextures/Grass_Mud/Grass_Mud_Basecolor.png using Guid(a0c9a9da0e140d04ca2943dc740bae2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5901c0f8a5d36235d3ca11884850e0bc') in 0.024498 seconds 
+  Import took 0.027297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Blink/Art/Textures/StylizedIceTextures/Ice_3/Ice_3_Height.png
+  artifactKey: Guid(ac5b8b32168a0ca41be6e018b31d6330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedIceTextures/Ice_3/Ice_3_Height.png using Guid(ac5b8b32168a0ca41be6e018b31d6330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a53a5a8794597d5bb76898348ba50de') in 0.017722 seconds 
+  Import took 0.021076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Blink/Art/Textures/StylizedForestTextures/Grass_Mud/Grass_Mud_Normal.png
+  artifactKey: Guid(b217965dc434d8046b635d1832ec490f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedForestTextures/Grass_Mud/Grass_Mud_Normal.png using Guid(b217965dc434d8046b635d1832ec490f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a4b32f09f36820cd2d3bfc2366687b1') in 0.029260 seconds 
+  Import took 0.032392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Blink/Art/Textures/StylizedIceTextures/Ice_3/Ice_3_Normal.png
+  artifactKey: Guid(272e838147e3c7846a028d58eb7a2edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedIceTextures/Ice_3/Ice_3_Normal.png using Guid(272e838147e3c7846a028d58eb7a2edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '136d3e2f33c98963384fa9fea8afd6cf') in 0.019750 seconds 
+  Import took 0.022741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Blink/Art/Textures/Demo/StylizedFREETexturesDEMO/ReflectionProbe-0.exr
+  artifactKey: Guid(1f6a1013c51f5ef4680f704aba80f676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/Demo/StylizedFREETexturesDEMO/ReflectionProbe-0.exr using Guid(1f6a1013c51f5ef4680f704aba80f676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bd537d5c830a7a4d47d6c5ecc984274') in 0.027479 seconds 
+  Import took 0.030259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Blink/Art/Textures/StylizedForestTextures/Grass_Mud/Grass_Mud_Height.png
+  artifactKey: Guid(e7f6b9a3a702d084b9f4b51036423f2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedForestTextures/Grass_Mud/Grass_Mud_Height.png using Guid(e7f6b9a3a702d084b9f4b51036423f2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '872902189e089f0f6415c71f136e31b0') in 0.015487 seconds 
+  Import took 0.018641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/Dry_Lava_Roughness.png
+  artifactKey: Guid(84b28b415ee7a9046b485c8b4eb5a999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/Dry_Lava_Roughness.png using Guid(84b28b415ee7a9046b485c8b4eb5a999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a793a037a34d83116ea06f08ef6295ac') in 0.019592 seconds 
+  Import took 0.022776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Blink/Art/Textures/StylizedIceTextures/Ice_3/Ice_3_Roughness.png
+  artifactKey: Guid(f42ab3c4d06bba743a46899b6db2b897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedIceTextures/Ice_3/Ice_3_Roughness.png using Guid(f42ab3c4d06bba743a46899b6db2b897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b991438e02932842b3b48a69e629f4c') in 0.016207 seconds 
+  Import took 0.019569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Blink/Art/Textures/StylizedDesertTextures/Rocks_1_Sand_3/Rocks_1_Sand_3_BaseColor.png
+  artifactKey: Guid(6fa7161420bbd60419693f2519d83d78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedDesertTextures/Rocks_1_Sand_3/Rocks_1_Sand_3_BaseColor.png using Guid(6fa7161420bbd60419693f2519d83d78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd523b20de5baf40418bb58ff1f0e81a9') in 0.011760 seconds 
+  Import took 0.014430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/Dry_Lava_BaseColor.png
+  artifactKey: Guid(191dc07ce4b300c46b8135046fe1cc7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/Dry_Lava_BaseColor.png using Guid(191dc07ce4b300c46b8135046fe1cc7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c8dc62b51582f28dff90ff2fa09528a') in 0.011975 seconds 
+  Import took 0.014838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Blink/Art/Textures/StylizedDesertTextures/Sand_1/Sand_1_AmbientOcclusion.png
+  artifactKey: Guid(78cb7dc87fc63074ba6da439f9e7d574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedDesertTextures/Sand_1/Sand_1_AmbientOcclusion.png using Guid(78cb7dc87fc63074ba6da439f9e7d574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ba9954cf9a10aff6222ad8efc42ccfc') in 0.014799 seconds 
+  Import took 0.018131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Blink/Art/Textures/StylizedLavaTextures/Rock_Ground_Cliff_1/Rock_Ground_Cliff_1_AmbientOcclusion.png
+  artifactKey: Guid(9edcfeba3ab351f43997afcb294a948a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedLavaTextures/Rock_Ground_Cliff_1/Rock_Ground_Cliff_1_AmbientOcclusion.png using Guid(9edcfeba3ab351f43997afcb294a948a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad6bd3bb6d186d5537cb15b6f73bc523') in 0.010726 seconds 
+  Import took 0.013502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Blink/Art/Textures/StylizedLavaTextures/Rock_Ground_Cliff_1/Rock_Ground_Cliff_1_Normal.png
+  artifactKey: Guid(c4e78757e32cc8d4480c0e97328f3740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedLavaTextures/Rock_Ground_Cliff_1/Rock_Ground_Cliff_1_Normal.png using Guid(c4e78757e32cc8d4480c0e97328f3740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d5539fcdb1ed20ec2ebc9d06d0bb697') in 0.013789 seconds 
+  Import took 0.016272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Blink/Art/Textures/StylizedLavaTextures/Rock_Ground_Cliff_1/Rock_Ground_Cliff_1_Roughness.png
+  artifactKey: Guid(f386abe775e9a57459e8aeba11ad0fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedLavaTextures/Rock_Ground_Cliff_1/Rock_Ground_Cliff_1_Roughness.png using Guid(f386abe775e9a57459e8aeba11ad0fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a39fc4ccfaf75f9378121c3d24f18c4') in 0.014710 seconds 
+  Import took 0.017451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Blink/Art/Textures/StylizedLavaTextures/Rock_Ground_Cliff_1/Rock_Ground_Cliff_1_Emissive.png
+  artifactKey: Guid(5f891bae67f7d304d9a61acaa881a263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedLavaTextures/Rock_Ground_Cliff_1/Rock_Ground_Cliff_1_Emissive.png using Guid(5f891bae67f7d304d9a61acaa881a263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15b99c3bde16865d6b70c29c7045b752') in 0.018846 seconds 
+  Import took 0.021404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Blink/Art/Textures/StylizedForestTextures/Grass_Mud/Grass_Mud_Roughness.png
+  artifactKey: Guid(f6813a2d2e429bc4db4e8e4c7858f7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedForestTextures/Grass_Mud/Grass_Mud_Roughness.png using Guid(f6813a2d2e429bc4db4e8e4c7858f7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d796b7c2154d747590a98f8a270d541') in 0.020142 seconds 
+  Import took 0.023332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Blink/Art/Textures/StylizedLavaTextures/Rock_Ground_Cliff_1/Rock_Ground_Cliff_1_Height.png
+  artifactKey: Guid(b3085d568386ce146bb165bc91306590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedLavaTextures/Rock_Ground_Cliff_1/Rock_Ground_Cliff_1_Height.png using Guid(b3085d568386ce146bb165bc91306590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8d7149cecd40b0980ea5178db74a8d3') in 0.016930 seconds 
+  Import took 0.019841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Blink/Art/Textures/StylizedForestTextures/Grass_Mud/Grass_Mud_Ambientocclusion.png
+  artifactKey: Guid(c4835cf16d7f572499c6cff86001ec3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedForestTextures/Grass_Mud/Grass_Mud_Ambientocclusion.png using Guid(c4835cf16d7f572499c6cff86001ec3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99cf947462535e80db6149025116f26a') in 0.020086 seconds 
+  Import took 0.022809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Blink/Art/Textures/StylizedDesertTextures/Rocks_1_Sand_3/Rocks_1_Sand_3_Height.png
+  artifactKey: Guid(4d09fee64dc0ae14d9a1c435d0535aed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedDesertTextures/Rocks_1_Sand_3/Rocks_1_Sand_3_Height.png using Guid(4d09fee64dc0ae14d9a1c435d0535aed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5354f141cc662199a9b8f367d0c21651') in 0.020169 seconds 
+  Import took 0.022998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Blink/Art/Textures/StylizedDesertTextures/Sand_1/Sand_1_BaseColor.png
+  artifactKey: Guid(6b4e261c39e63234db51459653a84d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedDesertTextures/Sand_1/Sand_1_BaseColor.png using Guid(6b4e261c39e63234db51459653a84d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9798dceef6b0d6ebb23409d049153d35') in 0.014768 seconds 
+  Import took 0.017991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Blink/Art/Textures/StylizedDesertTextures/Sand_1/Sand_1_Normal.png
+  artifactKey: Guid(302ddbefe653e71408c2c43abfb75d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedDesertTextures/Sand_1/Sand_1_Normal.png using Guid(302ddbefe653e71408c2c43abfb75d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0963c3929e7254f9d0d472e43f02b78') in 0.018930 seconds 
+  Import took 0.021692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/Dry_Lava_AmbientOcclusion.png
+  artifactKey: Guid(e38f6cb631113bd4aae7b02113c7cfd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/Dry_Lava_AmbientOcclusion.png using Guid(e38f6cb631113bd4aae7b02113c7cfd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb6c80c74f3a70539b250fd120b90188') in 0.018247 seconds 
+  Import took 0.021208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Blink/Art/Textures/StylizedForestTextures/Cliff_3/Cliff_3_Normal.png
+  artifactKey: Guid(f7627922db039884e849d99b8aaf3e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedForestTextures/Cliff_3/Cliff_3_Normal.png using Guid(f7627922db039884e849d99b8aaf3e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3514d84f975a0a210957f24ee061882b') in 0.015310 seconds 
+  Import took 0.018637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Blink/Art/Textures/StylizedIceTextures/Ice_3/Ice_3_AmbientOcclusion.png
+  artifactKey: Guid(806a1047ef08a9846b260b7699b97aef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedIceTextures/Ice_3/Ice_3_AmbientOcclusion.png using Guid(806a1047ef08a9846b260b7699b97aef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f372e6907aaf67e408ae8916d9d793a7') in 0.011078 seconds 
+  Import took 0.013691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/Dry_Lava_Normal.png
+  artifactKey: Guid(0258a49874d37ef4ca3e716ad72fd4fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/Dry_Lava_Normal.png using Guid(0258a49874d37ef4ca3e716ad72fd4fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e27f2c63fea2ae07a7836c86a996172') in 0.014116 seconds 
+  Import took 0.017614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Blink/Art/Textures/StylizedLavaTextures/Rock_Ground_Cliff_1/Rock_Ground_Cliff_1_BaseColor.png
+  artifactKey: Guid(7f00d79e8f56b1b47b2b2f34c1d22cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedLavaTextures/Rock_Ground_Cliff_1/Rock_Ground_Cliff_1_BaseColor.png using Guid(7f00d79e8f56b1b47b2b2f34c1d22cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab7f3b5cb21dc135f2c8a63d8c73bf46') in 0.016859 seconds 
+  Import took 0.020352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Blink/Art/Textures/StylizedDesertTextures/Rocks_1_Sand_3/Rocks_1_Sand_3_AmbientOcclusion.png
+  artifactKey: Guid(aa9d3601a6bd8354190cf1f4611111d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedDesertTextures/Rocks_1_Sand_3/Rocks_1_Sand_3_AmbientOcclusion.png using Guid(aa9d3601a6bd8354190cf1f4611111d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e28859e26176cd994b6e71c78b99ded') in 0.018580 seconds 
+  Import took 0.021371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Blink/Art/Textures/StylizedForestTextures/Cliff_3/Cliff_3_Roughness.png
+  artifactKey: Guid(1446785b5ae3f274eb68fa98f44389d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedForestTextures/Cliff_3/Cliff_3_Roughness.png using Guid(1446785b5ae3f274eb68fa98f44389d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12366718a419d9ead30b5dda243eb430') in 0.013998 seconds 
+  Import took 0.016817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Blink/Art/Textures/StylizedDesertTextures/Rocks_1_Sand_3/Rocks_1_Sand_3_Normal.png
+  artifactKey: Guid(1c11fe45eb4c5574aa39c02bd15b24d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedDesertTextures/Rocks_1_Sand_3/Rocks_1_Sand_3_Normal.png using Guid(1c11fe45eb4c5574aa39c02bd15b24d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '736f6fe9597f0586d2b1e8e17d063efc') in 0.014073 seconds 
+  Import took 0.017037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Blink/Art/Textures/StylizedDesertTextures/Sand_1/Sand_1_Height.png
+  artifactKey: Guid(ab1f68fd9b74d874fa4bdc139b42b540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedDesertTextures/Sand_1/Sand_1_Height.png using Guid(ab1f68fd9b74d874fa4bdc139b42b540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b82ea67ce956349eb50419bac9cddde') in 0.011326 seconds 
+  Import took 0.014045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Blink/Art/Textures/StylizedDesertTextures/Rocks_1_Sand_3/Rocks_1_Sand_3_Roughness.png
+  artifactKey: Guid(b288bd1ea5f52d0449434b7ddea40cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedDesertTextures/Rocks_1_Sand_3/Rocks_1_Sand_3_Roughness.png using Guid(b288bd1ea5f52d0449434b7ddea40cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf04d8bb66c949c312015a7ffd589276') in 0.016736 seconds 
+  Import took 0.019308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Blink/Art/Textures/StylizedIceTextures/Ice_3/Ice_3_BaseColor.png
+  artifactKey: Guid(31304de642609274a83c36feb4e2d11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedIceTextures/Ice_3/Ice_3_BaseColor.png using Guid(31304de642609274a83c36feb4e2d11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68589647634d467180ac402413c99e09') in 0.019400 seconds 
+  Import took 0.022538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.436109 seconds.
+  path: Assets/Blink/Art/Textures/StylizedDesertTextures/Sand_1/Sand_1_Roughness.png
+  artifactKey: Guid(8d31fec5a17b19f47a1604a1d00f562a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedDesertTextures/Sand_1/Sand_1_Roughness.png using Guid(8d31fec5a17b19f47a1604a1d00f562a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92992ba6aa4da3dc7aa7602fab6fe47c') in 0.017146 seconds 
+  Import took 0.022785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Blink/Art/Textures/StylizedIceTextures/Snow_4/Snow_4_AmbientOcclusion.png
+  artifactKey: Guid(aa947cc916ecaa14ea899b1352d57a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedIceTextures/Snow_4/Snow_4_AmbientOcclusion.png using Guid(aa947cc916ecaa14ea899b1352d57a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaa8311384cd3f4e904d81d1c1bed3c3') in 0.012345 seconds 
+  Import took 0.015808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Blink/Art/Textures/StylizedIceTextures/Snow_4/Snow_4_Roughness.png
+  artifactKey: Guid(aa6b9e0a0c4bbce448e939560aba68d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedIceTextures/Snow_4/Snow_4_Roughness.png using Guid(aa6b9e0a0c4bbce448e939560aba68d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '028516e6e64a9c632a33a7cd9cd4d0eb') in 0.011695 seconds 
+  Import took 0.014515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000444 seconds.
+  path: Assets/Blink/Art/Textures/StylizedIceTextures/Snow_4/Snow_4_Normal.png
+  artifactKey: Guid(25e8404e9d20aee479318ba8737bee01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedIceTextures/Snow_4/Snow_4_Normal.png using Guid(25e8404e9d20aee479318ba8737bee01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '648485e78e3eeb79adc7ce44b9829a33') in 0.019850 seconds 
+  Import took 0.022809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Blink/Art/Textures/StylizedIceTextures/Snow_4/Snow_4_BaseColor.png
+  artifactKey: Guid(94b8648c05465fb46bfa574e9aea873e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedIceTextures/Snow_4/Snow_4_BaseColor.png using Guid(94b8648c05465fb46bfa574e9aea873e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be2cf5b410ce92fb3de2520491dfbe12') in 0.017352 seconds 
+  Import took 0.020291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Blink/Art/Textures/StylizedIceTextures/Snow_4/Snow_4_Height.png
+  artifactKey: Guid(77426d526ef7ac242a9a03bbcc6e94c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedIceTextures/Snow_4/Snow_4_Height.png using Guid(77426d526ef7ac242a9a03bbcc6e94c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bb8a36b3be3700b7a308858286506e7') in 0.015128 seconds 
+  Import took 0.018422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 382.467898 seconds.
+  path: Assets/Blink/Art/Textures/StylizedDesertTextures/Rocks_1_Sand_3/Rock_1_Sand_3.mat
+  artifactKey: Guid(ce3f0d46186f9384ab5a022a44a4082e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedDesertTextures/Rocks_1_Sand_3/Rock_1_Sand_3.mat using Guid(ce3f0d46186f9384ab5a022a44a4082e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68795f4d838431eb56fb0b10aa4e923e') in 0.350967 seconds 
+  Import took 0.354257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Blink/Art/Textures/StylizedDesertTextures/Rocks_1_Sand_3/Rock_1_Sand_3.terrainlayer
+  artifactKey: Guid(2570733b4b508b542975403ec208b3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedDesertTextures/Rocks_1_Sand_3/Rock_1_Sand_3.terrainlayer using Guid(2570733b4b508b542975403ec208b3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd388f37e149791da1c8b0c19472700f7') in 0.015945 seconds 
+  Import took 0.018725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.406873 seconds.
+  path: Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/Dry_Lava.mat
+  artifactKey: Guid(c4f5b5fe4dd970a418b1187690e3d631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/Dry_Lava.mat using Guid(c4f5b5fe4dd970a418b1187690e3d631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b9c58853163e0b64a60ccb371a279e8') in 0.274647 seconds 
+  Import took 0.278513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/Dry_Lava.terrainlayer
+  artifactKey: Guid(e932c33262f09ab49b16794809b28365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/Dry_Lava.terrainlayer using Guid(e932c33262f09ab49b16794809b28365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fa8058c2cae686042e2916749db4364') in 0.016765 seconds 
+  Import took 0.019564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 144.543433 seconds.
+  path: Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/NewLayer.terrainlayer
+  artifactKey: Guid(1c92a38670760ba4b8b88a85aa721e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/NewLayer.terrainlayer using Guid(1c92a38670760ba4b8b88a85aa721e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f2c26bca4ca778ea38f93128afc7bbb') in 0.016593 seconds 
+  Import took 0.020534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.567580 seconds.
+  path: Assets/NewLayer 1.terrainlayer
+  artifactKey: Guid(6949d3b457aee0741849ff65aa014a4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewLayer 1.terrainlayer using Guid(6949d3b457aee0741849ff65aa014a4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36e3361112c1a3a733e12237e6065117') in 0.014988 seconds 
+  Import took 0.017936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.662346 seconds.
+  path: Assets/Blink/Art/Textures/StylizedDesertTextures/Rocks_1_Sand_3/NewLayer.terrainlayer
+  artifactKey: Guid(111245be3ebb2d3419ceddb39c4141f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedDesertTextures/Rocks_1_Sand_3/NewLayer.terrainlayer using Guid(111245be3ebb2d3419ceddb39c4141f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2046fa29be74b581747f7354c8164319') in 0.015249 seconds 
+  Import took 0.018157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 120.645236 seconds.
+  path: Assets/NewLayer 1.terrainlayer
+  artifactKey: Guid(6949d3b457aee0741849ff65aa014a4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewLayer 1.terrainlayer using Guid(6949d3b457aee0741849ff65aa014a4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3002e22676fa0acc8d90e6a48564c12') in 0.015362 seconds 
+  Import took 0.018521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 295.108859 seconds.
+  path: Assets/Blink/Art/Textures/StylizedDesertTextures/Rocks_1_Sand_3/NewLayer.terrainlayer
+  artifactKey: Guid(111245be3ebb2d3419ceddb39c4141f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedDesertTextures/Rocks_1_Sand_3/NewLayer.terrainlayer using Guid(111245be3ebb2d3419ceddb39c4141f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4e1e321c00262eea198ad306c57a9b3') in 0.021909 seconds 
+  Import took 0.024893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 163.062742 seconds.
+  path: Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/NewLayer.terrainlayer
+  artifactKey: Guid(1c92a38670760ba4b8b88a85aa721e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/NewLayer.terrainlayer using Guid(1c92a38670760ba4b8b88a85aa721e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4346ed301fb1b596578ecb973b140cce') in 0.017928 seconds 
+  Import took 0.021014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.502789 seconds.
+  path: Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/NewLayer 1.terrainlayer
+  artifactKey: Guid(25a689eeecc9d60479f5dcdf5d9de604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/NewLayer 1.terrainlayer using Guid(25a689eeecc9d60479f5dcdf5d9de604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1abfbddfbadf091fd2a3aad4c373017a') in 0.010356 seconds 
+  Import took 0.014365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/NewLayer 2.terrainlayer
+  artifactKey: Guid(a628a35ca2e57304c993c7fa3bff0dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedLavaTextures/Dry_Lava/NewLayer 2.terrainlayer using Guid(a628a35ca2e57304c993c7fa3bff0dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f6bfdf1b54819720e2826263857c738') in 0.015351 seconds 
+  Import took 0.018443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Blink/Art/Textures/StylizedDesertTextures/Rocks_1_Sand_3/NewLayer.terrainlayer
+  artifactKey: Guid(111245be3ebb2d3419ceddb39c4141f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Textures/StylizedDesertTextures/Rocks_1_Sand_3/NewLayer.terrainlayer using Guid(111245be3ebb2d3419ceddb39c4141f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8094583b2c999d0ac9c731a817bdcd42') in 0.016853 seconds 
+  Import took 0.019777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1211.399100 seconds.
+  path: Assets/Numena/Plants/Lemon/Lemon Tree 1.prefab
+  artifactKey: Guid(3c98bb4bee2f2ba4b92a2fbca7b8831f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Lemon Tree 1.prefab using Guid(3c98bb4bee2f2ba4b92a2fbca7b8831f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6844d6c8f3d6166ba6eec0201725940a') in 0.335694 seconds 
+  Import took 0.339212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Numena/Plants/Lemon/Lemon Tree 4.prefab
+  artifactKey: Guid(f1ac1674b1044b940a5e6f1e32750350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Lemon Tree 4.prefab using Guid(f1ac1674b1044b940a5e6f1e32750350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f0a480c00a790851196e536a107911e') in 0.017165 seconds 
+  Import took 0.020398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Numena/Plants/Lemon/Terain Prefabs/Lemon Tree 2 Terrain.prefab
+  artifactKey: Guid(dc41cdb983cf13b499619e70eaf48fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Terain Prefabs/Lemon Tree 2 Terrain.prefab using Guid(dc41cdb983cf13b499619e70eaf48fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a79a77d672f4a9f017f2f1527d451f29') in 0.196656 seconds 
+  Import took 0.199911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Numena/Plants/Lemon/Prefabs With Fruits/Lemon Tree 4 w Fruits.prefab
+  artifactKey: Guid(c1293ad6a2baf184c92d003aa923c284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Prefabs With Fruits/Lemon Tree 4 w Fruits.prefab using Guid(c1293ad6a2baf184c92d003aa923c284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fecc40eb4f9304ae0180e74184f46bfc') in 0.033147 seconds 
+  Import took 0.036194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Numena/Plants/Lemon/Prefabs With Fruits/Lemon Tree 1 w Fruits.prefab
+  artifactKey: Guid(46dea74f7999f4c4f9d26ad24b8282c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Prefabs With Fruits/Lemon Tree 1 w Fruits.prefab using Guid(46dea74f7999f4c4f9d26ad24b8282c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ead774b2b1ecc2523ba497c0b8fcd5a9') in 0.014019 seconds 
+  Import took 0.017783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/Numena/Plants/Lemon/Lemon Tree 3.prefab
+  artifactKey: Guid(9b77d12e48b7f364a82333485eca4473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Lemon Tree 3.prefab using Guid(9b77d12e48b7f364a82333485eca4473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab5052ec82f12bc00b91b4b6b2d62cbf') in 0.012216 seconds 
+  Import took 0.014974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Numena/Plants/Lemon/Lemon Tree 2.prefab
+  artifactKey: Guid(631dcab7c4e7c22418d6f6fa3dd74c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Lemon Tree 2.prefab using Guid(631dcab7c4e7c22418d6f6fa3dd74c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c96d00de92fd0b3babbd538849bcfe31') in 0.019711 seconds 
+  Import took 0.022733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Numena/Plants/Lemon/Terain Prefabs/Lemon Tree 3 Terrain.prefab
+  artifactKey: Guid(6307fd731e2247b479cddefb30b094fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Terain Prefabs/Lemon Tree 3 Terrain.prefab using Guid(6307fd731e2247b479cddefb30b094fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d9280cff529f6826e66612004408692') in 0.022304 seconds 
+  Import took 0.025644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Numena/Plants/Lemon/Source/lemon trees.fbx
+  artifactKey: Guid(ef80fce6f167feb4392b15e0aedf35d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Source/lemon trees.fbx using Guid(ef80fce6f167feb4392b15e0aedf35d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '871862904d434aa640740e30801d2d2a') in 0.161042 seconds 
+  Import took 0.163944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Numena/Plants/Lemon/Terain Prefabs/Lemon Tree 4 Terrain.prefab
+  artifactKey: Guid(c1af1c199f153a340921be4c20ccb38f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Terain Prefabs/Lemon Tree 4 Terrain.prefab using Guid(c1af1c199f153a340921be4c20ccb38f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3484529a268321bfc3084055626d55ff') in 0.014653 seconds 
+  Import took 0.016833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Numena/Plants/Lemon/Source/lemon trees w fruits.fbx
+  artifactKey: Guid(98b0ccf8b6592394f847463b75d797f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Source/lemon trees w fruits.fbx using Guid(98b0ccf8b6592394f847463b75d797f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5153bba52e2331c45315c36ac146031') in 0.046018 seconds 
+  Import took 0.048284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Numena/Plants/Lemon/Prefabs With Fruits/Lemon Tree 3 w Fruits.prefab
+  artifactKey: Guid(67762154df3b7ca4eaaebcc646c11bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Prefabs With Fruits/Lemon Tree 3 w Fruits.prefab using Guid(67762154df3b7ca4eaaebcc646c11bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e4294f30bc198be2c9687472c8be426') in 0.011092 seconds 
+  Import took 0.013579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Numena/Plants/Lemon/Prefabs With Fruits/Lemon Tree 2 w Fruits.prefab
+  artifactKey: Guid(e1a86f799eb10924597db250eb786896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Prefabs With Fruits/Lemon Tree 2 w Fruits.prefab using Guid(e1a86f799eb10924597db250eb786896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96b56c35cdc216de69044c9d00f23ce5') in 0.011144 seconds 
+  Import took 0.013574 seconds .
+
