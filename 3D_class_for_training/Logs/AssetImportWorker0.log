@@ -2024,3 +2024,285 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011305 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.423 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1424ms)
+		BeginReloadAssembly (144ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (1168ms)
+			LoadAssemblies (168ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (465ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (377ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (97ms)
+				ProcessInitializeOnLoadAttributes (260ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1877 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112.9 MB.
+System memory in use after: 113.0 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2466.
+Total: 4.452300 ms (FindLiveObjects: 0.192500 ms CreateObjectMapping: 0.105700 ms MarkObjects: 4.126000 ms  DeleteObjects: 0.026700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 636.596476 seconds.
+  path: Assets/Inguz Media Studio/Free 2D Impact FX/Prefabs
+  artifactKey: Guid(cd96fa8fc3f175c4490aa09409ef8285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/Free 2D Impact FX/Prefabs using Guid(cd96fa8fc3f175c4490aa09409ef8285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '587d4e77f86933951815ec41cc81c6bf') in 0.005289 seconds 
+  Import took 0.008781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036679 seconds.
+  path: Assets/Inguz Media Studio/Free 2D Impact FX/Prefabs/Impact01.prefab
+  artifactKey: Guid(37138c0c33167b04fa1fb90b7f5a794f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/Free 2D Impact FX/Prefabs/Impact01.prefab using Guid(37138c0c33167b04fa1fb90b7f5a794f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5a2043a597a0621c9f9089f0ebddc8b') in 0.166235 seconds 
+  Import took 0.173877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Inguz Media Studio/Free 2D Impact FX/Prefabs/Impact03.prefab
+  artifactKey: Guid(0277167a12290af47801444830a2be97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/Free 2D Impact FX/Prefabs/Impact03.prefab using Guid(0277167a12290af47801444830a2be97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dfcce4e4be842f2d48cdce167d97707') in 0.080744 seconds 
+  Import took 0.088555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Inguz Media Studio/Free 2D Impact FX/Prefabs/Impact02.prefab
+  artifactKey: Guid(e17d9a3f04750764c8c0a7a0461e4c3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/Free 2D Impact FX/Prefabs/Impact02.prefab using Guid(e17d9a3f04750764c8c0a7a0461e4c3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9272149cf20b4c1118d9dcd01c73221') in 0.069394 seconds 
+  Import took 0.077101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.298108 seconds.
+  path: Assets/Inguz Media Studio/Free 2D Impact FX/Materiales/Impact01.mat
+  artifactKey: Guid(53fb7d5d423b87147a87e285fab4b804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/Free 2D Impact FX/Materiales/Impact01.mat using Guid(53fb7d5d423b87147a87e285fab4b804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd29e1b301d27836ea09b6d88a874b023') in 0.088159 seconds 
+  Import took 0.097692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.246352 seconds.
+  path: Assets/Inguz Media Studio/Free 2D Impact FX/Materiales/Impact03.mat
+  artifactKey: Guid(8ca56286b051f1d48a4e9df54d9feabc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/Free 2D Impact FX/Materiales/Impact03.mat using Guid(8ca56286b051f1d48a4e9df54d9feabc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '991fc54ef7be0601362abeb6cc9acdbb') in 0.070246 seconds 
+  Import took 0.079419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.908489 seconds.
+  path: Assets/Inguz Media Studio/Free 2D Impact FX/Demo Scene/instructions.psd
+  artifactKey: Guid(d87e14d5e3f9d3f4a877bcf542d8ebed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/Free 2D Impact FX/Demo Scene/instructions.psd using Guid(d87e14d5e3f9d3f4a877bcf542d8ebed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e96bf73f69335c31068527dfebb78aac') in 0.047908 seconds 
+  Import took 0.051336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Inguz Media Studio/Free 2D Impact FX/Demo Scene/Righteous-Regular.ttf
+  artifactKey: Guid(d45bc23e3b5ab9a40b99d657a158a451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/Free 2D Impact FX/Demo Scene/Righteous-Regular.ttf using Guid(d45bc23e3b5ab9a40b99d657a158a451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a9d0e0c9c871e39886e2fdf4a16f71f') in 0.032658 seconds 
+  Import took 0.036470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Inguz Media Studio/Free 2D Impact FX/Demo Scene/mask2.png
+  artifactKey: Guid(2756a2204136aca49a0bcde83a3cf653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/Free 2D Impact FX/Demo Scene/mask2.png using Guid(2756a2204136aca49a0bcde83a3cf653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c508db25be1c9f24b77540f2e98d8d2') in 0.045123 seconds 
+  Import took 0.048621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Inguz Media Studio/Free 2D Impact FX/Demo Scene/UI-arrow 1.psd
+  artifactKey: Guid(838686c3abb4a47f1879faee23881935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/Free 2D Impact FX/Demo Scene/UI-arrow 1.psd using Guid(838686c3abb4a47f1879faee23881935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '294313f7ded43dbf9b8d0df547f1546d') in 0.031693 seconds 
+  Import took 0.035283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Inguz Media Studio/Free 2D Impact FX/Demo Scene/Wallpaper.png
+  artifactKey: Guid(af476d6d8d5bf418186319b671ba72ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/Free 2D Impact FX/Demo Scene/Wallpaper.png using Guid(af476d6d8d5bf418186319b671ba72ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b6208905c2ca7f66016de9f06029a1b') in 0.031045 seconds 
+  Import took 0.034808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.790167 seconds.
+  path: Assets/Inguz Media Studio/Free 2D Impact FX/Materiales/Impact02.mat
+  artifactKey: Guid(68334d56da6cd0044bdfb728a30c93d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/Free 2D Impact FX/Materiales/Impact02.mat using Guid(68334d56da6cd0044bdfb728a30c93d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6900cf920d1f4165e1e57a6eb0449e0e') in 0.068524 seconds 
+  Import took 0.076230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Inguz Media Studio/Free 2D Impact FX/Materiales/WallpaperQuad 02.mat
+  artifactKey: Guid(69f07636b67fd0f46a5b5beb108f982b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/Free 2D Impact FX/Materiales/WallpaperQuad 02.mat using Guid(69f07636b67fd0f46a5b5beb108f982b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d880d91a5c678195e5a15334a118d11') in 0.380380 seconds 
+  Import took 0.389421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Inguz Media Studio/Free 2D Impact FX/Materiales/WallpaperQuad.mat
+  artifactKey: Guid(64be558e50de8504e8fb8627a5610cc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/Free 2D Impact FX/Materiales/WallpaperQuad.mat using Guid(64be558e50de8504e8fb8627a5610cc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '650f755b7c823b6bbe3ccafb13af333f') in 0.015457 seconds 
+  Import took 0.019703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.265723 seconds.
+  path: Assets/Inguz Media Studio/Free 2D Impact FX/Sprites/Impact01.psd
+  artifactKey: Guid(6656cff0176db3349aa484846e5a62ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/Free 2D Impact FX/Sprites/Impact01.psd using Guid(6656cff0176db3349aa484846e5a62ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd50d2ac01a815e9958f90970b1e244fa') in 0.067372 seconds 
+  Import took 0.075703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Inguz Media Studio/Free 2D Impact FX/Sprites/Plastic006_4K_Displacement.png
+  artifactKey: Guid(1ee1ef7510919684184f2b3b51349095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/Free 2D Impact FX/Sprites/Plastic006_4K_Displacement.png using Guid(1ee1ef7510919684184f2b3b51349095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5054d76d5a4f8fe1ff69c0a3b720f8f9') in 0.024084 seconds 
+  Import took 0.030250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Inguz Media Studio/Free 2D Impact FX/Sprites/Impact02.psd
+  artifactKey: Guid(d5c4464fb2629804fa7110acf6517141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/Free 2D Impact FX/Sprites/Impact02.psd using Guid(d5c4464fb2629804fa7110acf6517141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e27be7682a9366081d92539f22fbafd') in 0.067190 seconds 
+  Import took 0.077667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Inguz Media Studio/Free 2D Impact FX/Sprites/Plastic006_4K_Normal.png
+  artifactKey: Guid(dbe8c2837f4828d4f8900a0b3483fe23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/Free 2D Impact FX/Sprites/Plastic006_4K_Normal.png using Guid(dbe8c2837f4828d4f8900a0b3483fe23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b071e94dc61dbb3ebd055332e0eaceeb') in 0.035155 seconds 
+  Import took 0.042074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Inguz Media Studio/Free 2D Impact FX/Sprites/Plastic006_4K_Roughness.png
+  artifactKey: Guid(5c1957aad71ad4b44b810c75163357ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/Free 2D Impact FX/Sprites/Plastic006_4K_Roughness.png using Guid(5c1957aad71ad4b44b810c75163357ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d8148fd3543917532c05500d078e0d4') in 0.021350 seconds 
+  Import took 0.027967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Inguz Media Studio/Free 2D Impact FX/Sprites/Impact03.psd
+  artifactKey: Guid(2ed3238a71ec255468ceb5a2bb27034f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/Free 2D Impact FX/Sprites/Impact03.psd using Guid(2ed3238a71ec255468ceb5a2bb27034f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03f1591d460f0654d73e07d204aa1e14') in 0.070825 seconds 
+  Import took 0.079623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Inguz Media Studio/Free 2D Impact FX/Sprites/Plastic006_4K_Color.png
+  artifactKey: Guid(1b93288426fe4b148ac1195cabc7a164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/Free 2D Impact FX/Sprites/Plastic006_4K_Color.png using Guid(1b93288426fe4b148ac1195cabc7a164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5933d7502a0269ebe8d95748ce25c66') in 0.024284 seconds 
+  Import took 0.029745 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006836 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.187 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1188ms)
+		BeginReloadAssembly (109ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (38ms)
+		EndReloadAssembly (1016ms)
+			LoadAssemblies (93ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (315ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (370ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (111ms)
+				ProcessInitializeOnLoadAttributes (237ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1877 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.0 MB.
+System memory in use after: 113.1 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2476.
+Total: 4.170000 ms (FindLiveObjects: 0.175800 ms CreateObjectMapping: 0.068600 ms MarkObjects: 3.888900 ms  DeleteObjects: 0.035300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
